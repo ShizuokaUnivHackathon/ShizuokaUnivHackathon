@@ -1,0 +1,41 @@
+
+.text-center {
+    text-align: center;
+  }
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-image: url("../img/wallpaper.jpg");    
+}
+
+#wrapper {
+    height: 100%;
+}
+
+#phrase{
+  margin-top: 45%;
+}
+
+#pic_button{
+  margin-top: 25%;
+}
+
+#button_1 {
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  margin: 0 auto;
+  font-size: 20px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  background: rgb(220, 220, 220);
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+}

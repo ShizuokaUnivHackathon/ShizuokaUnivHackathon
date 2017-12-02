@@ -1,0 +1,7 @@
+app/__pycache__/
+app/img/
+app/static/
+app/nc2036.wav
+app/point.ogg
+app/point01.wav
+app/bottle.py
